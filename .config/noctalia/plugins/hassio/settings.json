@@ -1,0 +1,11 @@
+{
+  "haUrl": "http://10.0.2.104:8123",
+  "haToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI4OWI4MDZkODMwMmM0MTQ5YTlhMjJjMmZlNGI1YmQ4ZCIsImlhdCI6MTc3NjM3MTUxOSwiZXhwIjoyMDkxNzMxNTE5fQ.3VMMQOprPhXpT9TF7ULOhgNaAWJN5WDhE0C3ViIanxQ",
+  "entities": [
+    "sensor.iphone_von_alex_battery_level",
+    "automation.heizung_an_wenn_alex_nach_hause_kommt",
+    "sensor.a1mini_0309da481500434_print_progress",
+    "image.bambulab_a1_mini_camera",
+    "light.licht_buro_decke"
+  ]
+}
